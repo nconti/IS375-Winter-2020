@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\bin\Debug\netcoreapp3.0\Delegates.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\obj\Debug\netcoreapp3.0\Delegates.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\obj\Debug\netcoreapp3.0\Delegates.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\Delegates\obj\Debug\netcoreapp3.0\Delegates.pdb

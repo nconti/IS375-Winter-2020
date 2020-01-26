@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "NicConti - HOP03/1.0.0": {
+        "runtime": {
+          "NicConti - HOP03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NicConti - HOP03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

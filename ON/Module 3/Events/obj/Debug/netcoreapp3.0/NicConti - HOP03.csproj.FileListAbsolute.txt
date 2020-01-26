@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\bin\Debug\netcoreapp3.0\NicConti - HOP03.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\obj\Debug\netcoreapp3.0\NicConti - HOP03.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\obj\Debug\netcoreapp3.0\NicConti - HOP03.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\obj\Debug\netcoreapp3.0\NicConti - HOP03.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\obj\Debug\netcoreapp3.0\NicConti - HOP03.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\Module 3\NicConti - HOP03\obj\Debug\netcoreapp3.0\NicConti - HOP03.pdb
