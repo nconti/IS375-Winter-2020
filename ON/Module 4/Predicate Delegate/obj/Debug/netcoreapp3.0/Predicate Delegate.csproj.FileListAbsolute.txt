@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\bin\Debug\netcoreapp3.0\Predicate Delegate.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\obj\Debug\netcoreapp3.0\Predicate Delegate.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\obj\Debug\netcoreapp3.0\Predicate Delegate.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\obj\Debug\netcoreapp3.0\Predicate Delegate.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\obj\Debug\netcoreapp3.0\Predicate Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Predicate Delegate\obj\Debug\netcoreapp3.0\Predicate Delegate.pdb

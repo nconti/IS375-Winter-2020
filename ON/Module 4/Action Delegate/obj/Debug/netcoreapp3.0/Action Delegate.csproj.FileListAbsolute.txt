@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.pdb

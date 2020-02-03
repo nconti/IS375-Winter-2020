@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\bin\Debug\netcoreapp3.0\Multicasting Delegate.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\obj\Debug\netcoreapp3.0\Multicasting Delegate.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\obj\Debug\netcoreapp3.0\Multicasting Delegate.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\obj\Debug\netcoreapp3.0\Multicasting Delegate.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\obj\Debug\netcoreapp3.0\Multicasting Delegate.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 4\ContiNic - HOP04\obj\Debug\netcoreapp3.0\Multicasting Delegate.pdb
