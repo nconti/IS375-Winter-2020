@@ -1,0 +1,10 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\bin\Debug\netcoreapp3.0\Static Polymorphism.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\obj\Debug\netcoreapp3.0\Static Polymorphism.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\obj\Debug\netcoreapp3.0\Static Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\obj\Debug\netcoreapp3.0\Static Polymorphism.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\obj\Debug\netcoreapp3.0\Static Polymorphism.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 5\Static Polymorphism\obj\Debug\netcoreapp3.0\Static Polymorphism.pdb
