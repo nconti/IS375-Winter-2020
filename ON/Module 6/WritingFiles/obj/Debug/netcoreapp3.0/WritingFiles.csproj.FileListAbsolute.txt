@@ -1,0 +1,11 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\bin\Debug\netcoreapp3.0\WritingFiles.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.csprojAssemblyReference.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\WritingFiles\obj\Debug\netcoreapp3.0\WritingFiles.pdb

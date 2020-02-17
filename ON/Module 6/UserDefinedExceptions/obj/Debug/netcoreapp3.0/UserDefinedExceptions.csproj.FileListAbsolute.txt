@@ -1,0 +1,10 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\bin\Debug\netcoreapp3.0\UserDefinedExceptions.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\UserDefinedExceptions\obj\Debug\netcoreapp3.0\UserDefinedExceptions.pdb

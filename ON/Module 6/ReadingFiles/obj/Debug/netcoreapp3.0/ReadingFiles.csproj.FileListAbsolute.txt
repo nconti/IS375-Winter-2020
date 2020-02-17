@@ -1,0 +1,10 @@
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.exe
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.deps.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.runtimeconfig.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.runtimeconfig.dev.json
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\bin\Debug\netcoreapp3.0\ReadingFiles.pdb
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.AssemblyInfoInputs.cache
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.AssemblyInfo.cs
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.dll
+C:\Users\Nicolas Conti\source\repos\nconti\IS375-Winter-2020\ON\Module 6\ReadingFiles\obj\Debug\netcoreapp3.0\ReadingFiles.pdb
