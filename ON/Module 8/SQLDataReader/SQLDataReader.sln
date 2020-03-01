@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDataReader", "SQLDataReader.csproj", "{48E444F0-EB5D-44FD-99D7-4375AFA37AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E444F0-EB5D-44FD-99D7-4375AFA37AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E444F0-EB5D-44FD-99D7-4375AFA37AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E444F0-EB5D-44FD-99D7-4375AFA37AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E444F0-EB5D-44FD-99D7-4375AFA37AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D940EA5-584E-488F-B8F0-7D283DF09DB9}
+	EndGlobalSection
+EndGlobal
